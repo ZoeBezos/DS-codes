@@ -1,3 +1,3 @@
 # DS-codes
 
-+Stack
++ Stack
